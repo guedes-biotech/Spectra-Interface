@@ -18,4 +18,4 @@ seaborn
 scikit-learn
 
 # Importante
-Além do python baixado na máquina, precisa estar com todas essas dependências baixadas (no terminal CMD utilize 'pip install biblioteca', substituindo 'biblioteca' por cada uma das dependências acima.
+Além do python baixado na máquina, precisa estar com todas essas dependências baixadas (no terminal CMD utilize 'pip install biblioteca', substituindo 'biblioteca' por cada uma das dependências acima).
