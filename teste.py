@@ -1,12 +1,6 @@
 import main
 import sys
 import os
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.decomposition import PCA
-from sklearn.preprocessing import StandardScaler
-import numpy as np
 from PyQt5.QtWidgets import QApplication, QWidget, QMainWindow, QVBoxLayout, QLabel, QDesktopWidget, QFrame, QShortcut, QPushButton, QFileDialog, QHBoxLayout, QDialog, QCheckBox, QDialogButtonBox, QScrollArea, QSizePolicy
 
 class ColumnSelectionDialog(QDialog): #Janela da caixa de seleção de colunas
