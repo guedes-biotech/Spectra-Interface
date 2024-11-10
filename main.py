@@ -66,7 +66,7 @@ def fourrier(df):
 
 def main():
     file_name = 'beer.csv'
-    df = open_file(file_name, 0)
+    df = open_file(file_name)
     #show_information(df)
     plot_IR(df, 1)
     #teste = fourrier(df)
