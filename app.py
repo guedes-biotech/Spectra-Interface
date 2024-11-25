@@ -230,6 +230,7 @@ class AnalysisWindow(QWidget):
         self.pc_dropdown.addItems(self.pca_df.columns) # Adiciona as componentes principais como opção
         
         self.second_dropdown.clear()
+        self.second_dropdown.addItem('Nenhum')
         self.second_dropdown.addItems(self.pca_df.columns)
         
     def plot_pca(self):
